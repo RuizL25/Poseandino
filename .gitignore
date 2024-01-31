@@ -1,0 +1,11 @@
+# Ignorar archivos JavaScript
+*.js
+
+# Ignorar archivos HTML
+*.html
+
+# Ignorar archivos CSS
+*.css
+
+# Ignorar archivos PNG
+*.png
