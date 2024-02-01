@@ -1,0 +1,95 @@
+body{
+    background-color: #D8F0FB;
+}
+
+div.contenedor_logo{
+    margin-top: 20px;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+
+img{
+    display: block;
+    margin: 0px auto;
+  }
+
+div.logo{
+    text-align: center;
+}
+
+.p5Canvas{
+    margin-top: -2%;
+    margin-left: 27%;
+}
+
+div.contenedor_boton_v{
+    justify-content: center;
+    position: absolute;
+    width: 1495px;
+    height: 444px;
+    bottom: 10px;
+}
+
+button.volver{
+    margin-top: 26%;
+    margin-left: 44%;
+    text-align: center;
+
+    border: 1px solid #01696E; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #01696E; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: "Inria Serif";/*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+}
+
+div.derecho{
+    position: absolute;
+    justify-content: center;
+    width: 1495px;
+    height: 444px;
+    bottom: 10px;
+}
+
+button.derecha{
+    height: 100%;
+    margin-top: -5%;
+    margin-left: 71%;
+    
+
+    border: 1px solid #01696E; /*anchura, estilo y color borde*/
+    padding: 11px; /*espacio alrededor texto*/
+    background-color: #0000; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: "Inria Serif";/*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+}
+
+div.izquierdo{
+    position: absolute;
+    justify-content: center;
+    width: 1495px;
+    height: 444px;
+    bottom: 10px;
+}
+
+button.izquierda{
+    height: 100%;
+    margin-top: -5%;
+    margin-left: 23%;
+    
+
+    border: 1px solid #01696E; /*anchura, estilo y color borde*/
+    padding: 11px; /*espacio alrededor texto*/
+    background-color: #0000; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: "Inria Serif";/*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+}
